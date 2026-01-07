@@ -1,0 +1,36 @@
+{
+  "train": [
+    "CHASE_Image_13L", "CHASE_Image_01L", "CHASE_Image_14R", "CHASE_Image_06L",
+    "CHASE_Image_07R", "CHASE_Image_09R", "CHASE_Image_07L", "CHASE_Image_12R",
+    "CHASE_Image_03L", "CHASE_Image_02R", "CHASE_Image_09L", "CHASE_Image_02L",
+    "CHASE_Image_05L", "CHASE_Image_11L", "CHASE_Image_01R", "CHASE_Image_08L",
+    "CHASE_Image_10L", "CHASE_Image_12L", "CHASE_Image_03R", "CHASE_Image_13R",
+    "CHASE_Image_04R", "CHASE_Image_11R",
+    "DRIVE_21_training", "DRIVE_22_training", "DRIVE_23_training", "DRIVE_24_training",
+    "DRIVE_25_training", "DRIVE_26_training", "DRIVE_27_training", "DRIVE_28_training",
+    "DRIVE_29_training", "DRIVE_30_training", "DRIVE_31_training", "DRIVE_32_training",
+    "DRIVE_33_training", "DRIVE_34_training", "DRIVE_35_training", "DRIVE_36_training",
+    "DRIVE_37_training", "DRIVE_38_training", "DRIVE_39_training", "DRIVE_40_training",
+    "STARE_im0044", "STARE_im0077", "STARE_im0081", "STARE_im0082", "STARE_im0139",
+    "STARE_im0162", "STARE_im0163", "STARE_im0235", "STARE_im0236", "STARE_im0239",
+    "STARE_im0240", "STARE_im0255", "STARE_im0291", "STARE_im0319", "STARE_im0324"
+  ],
+  "valid": [
+    "CHASE_Image_08R", "CHASE_Image_14L", "CHASE_Image_05R", "CHASE_Image_04L",
+    "CHASE_Image_06R", "CHASE_Image_10R",
+    "DRIVE_01_test", "DRIVE_02_test", "DRIVE_03_test", "DRIVE_04_test", "DRIVE_05_test",
+    "DRIVE_06_test", "DRIVE_07_test", "DRIVE_08_test", "DRIVE_09_test", "DRIVE_10_test",
+    "DRIVE_11_test", "DRIVE_12_test", "DRIVE_13_test", "DRIVE_14_test", "DRIVE_15_test",
+    "DRIVE_16_test", "DRIVE_17_test", "DRIVE_18_test", "DRIVE_19_test", "DRIVE_20_test",
+    "STARE_im0001", "STARE_im0002", "STARE_im0003", "STARE_im0004", "STARE_im0005"
+  ],
+  "test": [
+    "RECOVERY_Img01_RECOVERY-FA19", "RECOVERY_Img02_RECOVERY-FA19",
+    "RECOVERY_Img03_RECOVERY-FA19", "RECOVERY_Img04_RECOVERY-FA19",
+    "RECOVERY_Img05_RECOVERY-FA19", "RECOVERY_Img06_RECOVERY-FA19",
+    "RECOVERY_Img07_RECOVERY-FA19", "RECOVERY_Img08_RECOVERY-FA19"
+  ],
+  "trained_domains": [0, 1, 3],
+  "test_domain": 2,
+  "test_domain_name": "RECOVERY"
+}
