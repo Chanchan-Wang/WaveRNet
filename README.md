@@ -7,7 +7,7 @@ Official PyTorch implementation of **WaveRNet** from the paper:
 
 > **WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**  
 > Chanchan Wang, et al.  
-> *Expert Systems with Applications*, 2025
+> *Submitted to Expert Systems with Applications*, 2025
 
 ## 🌟 Highlights
 
@@ -114,7 +114,7 @@ If you find this work useful, please cite:
 @article{wang2025waverNet,
   title={WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation},
   author={Wang, Chanchan and others},
-  journal={Expert Systems with Applications},
+  journal={Submitted to Expert Systems with Applications},
   year={2025}
 }
 ```
@@ -131,3 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions and feedback, please contact: wusheng070@gmail.com
+
